@@ -13,7 +13,7 @@ While searching for the dream house, the buyer looks at various factors, not jus
 
 ## 📁 Data Source
 
-The raw data resides in the `data/raw` folder. It includes customer info, product details, purchase history, and more. To understand the data attributes, check the [Data Dictionary](data/raw/data_dictionary.pdf) provided in the same folder.
+The raw data resides in the `data/raw` folder. It includes customer info, product details, purchase history, and more. To understand the data attributes, check the [Data Dictionary](data/raw/data_dictionary.txt) provided in the same folder.
 
 ## 📖 Project Guide
 
@@ -26,7 +26,7 @@ Here's how the project is organized:
 - `data/`: Raw and processed data files.
   - `raw/`: Raw data (PEP1.csv) from the Real Estate Analysis database.
 - `notebooks/`: Jupyter notebook for data analysis and visualization.
-  - `Feature Engineering - Real Estate Analysis.ipynb`: Notebook with combined EDA and visualizations.
+  - `FeatureEngineering-RealEstateAnalysis.ipynb`: Notebook with combined EDA and visualizations.
 
 ## 🛠️ Installation
 
